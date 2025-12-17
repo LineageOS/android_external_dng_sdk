@@ -16,6 +16,24 @@
       "message": "You also need to pick the other change in the chain.",
       "revId": "226a42dd4b895897b076de98d3e24c1b5f9bdbee",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "27c4f26a_914098f4",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 17656
+      },
+      "writtenOn": "2025-12-17T21:17:26Z",
+      "side": 1,
+      "message": "Thanks for the hint - done.",
+      "parentUuid": "c14df158_5a0d97ba",
+      "revId": "226a42dd4b895897b076de98d3e24c1b5f9bdbee",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
