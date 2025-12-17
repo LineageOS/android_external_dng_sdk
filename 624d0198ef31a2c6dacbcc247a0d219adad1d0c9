@@ -16,6 +16,24 @@
       "message": "Why isn\u0027t it the same change-Id of https://review.lineageos.org/c/LineageOS/android_external_dng_sdk/+/463157 ?\n\nAlso note that this will break device in the same way it did in 22.2. See: https://review.lineageos.org/c/LineageOS/android_external_dng_sdk/+/463839",
       "revId": "624d0198ef31a2c6dacbcc247a0d219adad1d0c9",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "3744004f_7e44a097",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 17656
+      },
+      "writtenOn": "2025-12-17T20:06:10Z",
+      "side": 1,
+      "message": "I have picked this commit: https://android.googlesource.com/platform/external/dng_sdk/+/65f6eddaee216ce88cfef1848c7ddb41e0e93e35 from tag android-security-13.0.0_r33, hence its change Id is used.\nThanks for the 2nd hint - so I\u0027ll simply pick that commit and apply as well?",
+      "parentUuid": "326d8112_23707b8d",
+      "revId": "624d0198ef31a2c6dacbcc247a0d219adad1d0c9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
