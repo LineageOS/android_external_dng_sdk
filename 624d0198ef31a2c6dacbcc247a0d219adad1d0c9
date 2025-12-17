@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "326d8112_23707b8d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-12-17T19:59:00Z",
+      "side": 1,
+      "message": "Why isn\u0027t it the same change-Id of https://review.lineageos.org/c/LineageOS/android_external_dng_sdk/+/463157 ?\n\nAlso note that this will break device in the same way it did in 22.2. See: https://review.lineageos.org/c/LineageOS/android_external_dng_sdk/+/463839",
+      "revId": "624d0198ef31a2c6dacbcc247a0d219adad1d0c9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
