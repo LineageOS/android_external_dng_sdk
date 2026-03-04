@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0d6bb9bb_1cf85dc0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 17656
+      },
+      "writtenOn": "2026-03-04T08:40:30Z",
+      "side": 1,
+      "message": "FAILED: /home/mse1969/out-android/lineage-19.1/soong/build.ninja\ncd \"$(dirname \"/home/mse1969/out-android/lineage-19.1/soong/.bootstrap/bin/soong_build\")\" \u0026\u0026 BUILDER\u003d\"$PWD/$(basename \"/home/mse1969/out-android/lineage-19.1/soong/.bootstrap/bin/soong_build\")\" \u0026\u0026 cd / \u0026\u0026 env -i \"$BUILDER\"     --top \"$TOP\"     --out \"/home/mse1969/out-android/line\u003e\nerror: external/dng_sdk/Android.bp:166:1: dependency \"libjpeg\" of \"libdng_sdk\" missing variant:\n  os:android,image:,arch:arm64_armv8-2a,sdk:sdk,link:shared\navailable variants:",
+      "revId": "30e22056211e8970ab40c6ddc5c66ff8cbdf1ef8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
