@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "85e67ce2_94e2ea21",
+        "filename": "Android.bp",
+        "patchSetId": 1
+      },
+      "lineNbr": 223,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-05-24T07:07:17Z",
+      "side": 1,
+      "message": "this is dumb, but how the provided patch does it.",
+      "revId": "d2168d576091ef07f682318f73c88723c81a0a98",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
