@@ -16,6 +16,23 @@
       "message": "What devices use this?",
       "revId": "974b6c904f1a11232e1e1c6eb0a14b440449b9c9",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d352566c_bc0faceb",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16185
+      },
+      "writtenOn": "2026-08-27T15:56:55Z",
+      "side": 1,
+      "message": "xiaomi sm6150, motorola sm8550, Xiaomi 8250 from a precursory muppets review. Probably more.",
+      "revId": "974b6c904f1a11232e1e1c6eb0a14b440449b9c9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
